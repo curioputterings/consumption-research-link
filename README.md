@@ -51,7 +51,9 @@ the gap between them is the signal. So here:
    research roadmaps and revealed frontier. → **[RESEARCH_LINK.md](./RESEARCH_LINK.md)**.
 
 New here? Start with **[FAQ.md — *The Louis Vuitton Index*](./FAQ.md)**: the whole
-analysis as 10 plain-language questions and answers.
+analysis as 10 plain-language questions and answers. Then
+**[INTERPRETATION.md](./INTERPRETATION.md)** — five standalone readings of what it
+all means.
 
 ## Headline result
 

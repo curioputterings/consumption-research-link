@@ -50,6 +50,9 @@ the gap between them is the signal. So here:
 4. **stage5** (`src/stage5_roadmap_link.py`) — joins the residual to the declared
    research roadmaps and revealed frontier. → **[RESEARCH_LINK.md](./RESEARCH_LINK.md)**.
 
+New here? Start with **[FAQ.md — *The Louis Vuitton Index*](./FAQ.md)**: the whole
+analysis as 10 plain-language questions and answers.
+
 ## Headline result
 
 The method, knowing nothing but mall directories + public macro data, recovers

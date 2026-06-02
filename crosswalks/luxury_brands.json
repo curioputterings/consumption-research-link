@@ -1,0 +1,36 @@
+{
+  "_doc": "Canonical, versioned brand -> luxury-tier crosswalk. The presence of these houses in a city's mall directory is a COMPOSITION signal of catchment affluence/demand (thesis #1: presence, never volume). A store_name is tagged if it contains one of these tokens as a whole word (case-insensitive, accent-folded). ultra = global luxury maisons; premium = aspirational/bridge brands. Weights feed the luxury-brand affluence sub-index. Versioned: bump 'version' on any edit, never hardcode inline.",
+  "version": "2026-06-02",
+  "weights": {"ultra": 1.0, "premium": 0.5},
+  "tiers": {
+    "ultra": [
+      "louis vuitton", "hermes", "hermès", "chanel", "dior", "gucci", "prada",
+      "miu miu", "fendi", "balenciaga", "givenchy", "saint laurent", "celine",
+      "céline", "loewe", "bottega veneta", "valentino", "versace", "burberry",
+      "salvatore ferragamo", "ferragamo", "bvlgari", "bulgari", "cartier",
+      "van cleef", "tiffany", "harry winston", "graff", "chopard", "piaget",
+      "rolex", "patek philippe", "audemars piguet", "vacheron constantin",
+      "jaeger-lecoultre", "jaeger lecoultre", "richard mille", "hublot",
+      "panerai", "iwc", "breguet", "a. lange", "moncler", "brunello cucinelli",
+      "berluti", "goyard", "delvaux", "moynat", "tom ford", "alexander mcqueen",
+      "dolce & gabbana", "dolce gabbana", "armani", "giorgio armani",
+      "ermenegildo zegna", "zegna", "thom browne", "off-white", "off white",
+      "chrome hearts", "maison margiela", "jimmy choo", "christian louboutin",
+      "roger vivier", "amiri", "stone island"
+    ],
+    "premium": [
+      "coach", "michael kors", "kate spade", "tory burch", "longchamp",
+      "marc jacobs", "furla", "tumi", "montblanc", "mont blanc", "tag heuer",
+      "tag heuer", "omega", "longines", "tudor", "breitling", "rado",
+      "ralph lauren", "polo ralph lauren", "hugo boss", "boss", "lacoste",
+      "calvin klein", "tommy hilfiger", "diesel", "ted baker", "sandro",
+      "maje", "the kooples", "max mara", "weekend max mara", "kenzo",
+      "paul smith", "vivienne westwood", "bape", "a bathing ape", "comme des garcons",
+      "comme des garçons", "apple", "dyson", "bang & olufsen", "bang olufsen",
+      "le labo", "jo malone", "diptyque", "aesop", "kiehl", "la mer",
+      "la prairie", "sk-ii", "sk ii", "victoria's secret", "victorias secret",
+      "swarovski", "pandora", "samsonite", "rimowa", "lululemon", "on running",
+      "arc'teryx", "arcteryx", "new balance"
+    ]
+  }
+}

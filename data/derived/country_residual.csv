@@ -1,0 +1,9 @@
+iso3,country,region,primate_city,n_cities,CA,z_CA,export_eci,z_ECI,residual,label,gdp_pc_ppp,resource_rents_pct_gdp,remittances_pct_gdp,gini
+MYS,Malaysia,SEA,kl,2,1.5002,1.2936,1.03,0.5017,0.7918,rentier,38779.283,6.922,0.3802,40.7
+AUS,Australia,OCE,melbourne,5,0.154,-0.4963,-0.82,-1.0883,0.5921,rentier,72111.1845,13.3579,0.1005,33.8
+IDN,Indonesia,SEA,jakarta,4,0.4448,-0.1098,-0.24,-0.5898,0.4801,aligned,16448.2755,5.157,1.1486,34.9
+VNM,Vietnam,SEA,hanoi,2,0.6809,0.2043,0.35,-0.0827,0.287,aligned,16385.5066,2.547,4.5,36.1
+THA,Thailand,SEA,bangkok,7,0.6829,0.2069,0.89,0.3814,-0.1745,aligned,24712.0659,1.817,1.796,33.3
+BGD,Bangladesh,SA,dhaka,1,-0.8749,-1.8644,-1.08,-1.3118,-0.5526,complexity>consumption,9646.7698,0.6101,6.1149,30.9
+SGP,Singapore,SEA,sg,1,1.4014,1.1622,2.52,1.7824,-0.6202,complexity>consumption,150689.3016,0.0002,0.0,
+PHL,Philippines,SEA,manila,7,0.2291,-0.3965,0.92,0.4072,-0.8037,complexity>consumption,11794.1375,1.9726,8.7257,39.3

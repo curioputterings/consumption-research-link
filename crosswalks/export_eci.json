@@ -1,0 +1,17 @@
+{
+  "_doc": "Export-side Economic Complexity Index (ECI) per country. This is the INDEPENDENT estimator of productive capability — defined over EXPORTS (what a place makes), per Hidalgo-Hausmann. It is the benchmark the consumption-side affluence estimate is regressed against; the residual (consumption affluence beyond what export ECI predicts) is the headline rentier/entrepot/remittance index. Source: Harvard Growth Lab, Atlas of Economic Complexity, Index (2023 edition), as tabulated on en.wikipedia.org/wiki/List_of_countries_by_economic_complexity (retrieved 2026-06-02). Versioned: bump 'vintage' when the Atlas edition changes.",
+  "vintage": "atlas-2023",
+  "source": "Harvard Growth Lab, Atlas of Economic Complexity (2023), via Wikipedia ECI ranking table",
+  "retrieved": "2026-06-02",
+  "eci": {
+    "SGP": {"eci": 2.52,  "rank": 1,  "country": "Singapore"},
+    "PHL": {"eci": 0.92,  "rank": 30, "country": "Philippines"},
+    "MYS": {"eci": 1.03,  "rank": 27, "country": "Malaysia"},
+    "THA": {"eci": 0.89,  "rank": 31, "country": "Thailand"},
+    "VNM": {"eci": 0.35,  "rank": 45, "country": "Vietnam"},
+    "IDN": {"eci": -0.24, "rank": 68, "country": "Indonesia"},
+    "AUS": {"eci": -0.82, "rank": 71, "country": "Australia"},
+    "NZL": {"eci": -0.18, "rank": 65, "country": "New Zealand"},
+    "BGD": {"eci": -1.08, "rank": 81, "country": "Bangladesh"}
+  }
+}

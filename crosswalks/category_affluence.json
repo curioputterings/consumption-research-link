@@ -1,0 +1,21 @@
+{
+  "_doc": "Canonical, versioned map from the 15 unified scope-of-business categories to an affluence TILT weight. Positive = discretionary/premium-leaning surface; negative = value/necessity-anchored surface. This is a COMPOSITION signal of the catchment served, NOT a volume or income claim (thesis #1). Department/Value/Outlet and Supermarket are down-weighted because they anchor value-oriented, mass-market centres. Versioned: bump 'version' on edit.",
+  "version": "2026-06-02",
+  "tilt": {
+    "Jewellery & Watches": 2.0,
+    "Beauty & Wellness": 1.0,
+    "Fashion & Accessories": 1.0,
+    "Sports & Fitness": 0.5,
+    "Hobbies, Leisure & Entertainment": 0.5,
+    "Education & Enrichment": 0.5,
+    "Health & Pharmacy": 0.0,
+    "Electronics & Technology": 0.0,
+    "Home & Living": 0.0,
+    "Food & Beverage": 0.0,
+    "Books & Stationery": 0.0,
+    "Kids & Children": 0.0,
+    "Services": 0.0,
+    "Supermarket & Convenience": -1.0,
+    "Department, Value & Outlet": -2.0
+  }
+}

@@ -1,0 +1,7 @@
+iso3,country,residual,consumption_label,resource_rents_pct_gdp,remittances_pct_gdp,export_eci,frontier_skill_mean,frontier_prox_mean,ambition_target_mean,ambition_gap_mean,n_domains
+MYS,Malaysia,0.79,rentier,6.9,0.4,1.03,1.89,0.106,2,0.11,9
+IDN,Indonesia,0.48,aligned,5.2,1.1,-0.24,1.33,0.039,1.67,0.33,9
+VNM,Vietnam,0.29,aligned,2.5,4.5,0.35,1.44,0.05,1.44,0,9
+THA,Thailand,-0.17,aligned,1.8,1.8,0.89,1.67,0.078,1.89,0.22,9
+SGP,Singapore,-0.62,complexity>consumption,0.0,0.0,2.52,3.78,0.583,3.67,-0.11,9
+PHL,Philippines,-0.8,complexity>consumption,2.0,8.7,0.92,,,,,0
